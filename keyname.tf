@@ -1,5 +1,5 @@
 # Defining Key Name for connection
-variable "Keyname" {
+variable "keyname" {
   default     = "terraform-project" 
   description = "jekines_key"
 }
